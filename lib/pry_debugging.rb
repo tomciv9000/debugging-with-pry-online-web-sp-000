@@ -1,6 +1,4 @@
 
-def plus_two(num)
-	num = num + 2
-	num
+denu
 	binding.pry
 end
